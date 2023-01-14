@@ -4,7 +4,7 @@ This capstone project presents the culmination of my BSc. Computer Engineering d
 In depth report and documentation can be found in the root directory titled *Report Documentation*
 
 ## Demo
-A demo of this project can be found [here](https://www.youtube.com/shorts/dp0F9bslgc4)
+A demo of this project can be found [here](https://youtu.be/ZLOXQzYEJnQ)
 
 ## Abstract 
 The advancement of manual control of dual robotic manipulators has considerably lagged
