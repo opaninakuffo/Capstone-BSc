@@ -1,7 +1,8 @@
 # Improved Teleoperation of Dual Robotic Manipulators using Vision Based Control
 This capstone project presents the culmination of my BSc. Computer Engineering degree from Ashesi University. 
 
-In depth report and documentation can be found in the root directory titled *Report Documentation*
+An in-depth report and documentation containing a high level diagram, schematics on how to connect, activity diagrams and a bill of materials
+can be found in the root directory titled *Report Documentation*
 
 ## Demo
 A demo of this project can be found [here](https://youtu.be/ZLOXQzYEJnQ)
